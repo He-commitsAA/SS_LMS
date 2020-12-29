@@ -10,9 +10,9 @@ import java.util.Scanner;
 import com.ss.sf.lms.dao.BookCopyDAO;
 import com.ss.sf.lms.dao.BookDAO;
 import com.ss.sf.lms.dao.LibraryBranchDAO;
-import com.ss.sf.lms.jdbc.Book;
-import com.ss.sf.lms.jdbc.BookCopy;
-import com.ss.sf.lms.jdbc.LibraryBranch;
+import com.ss.sf.lms.domain.Book;
+import com.ss.sf.lms.domain.BookCopy;
+import com.ss.sf.lms.domain.LibraryBranch;
 import com.ss.sf.lms.presentation.LibraryManagementSystem;
 /**
  * @author William

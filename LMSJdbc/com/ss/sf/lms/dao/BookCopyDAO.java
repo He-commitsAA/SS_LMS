@@ -9,8 +9,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-//import com.ss.sf.lms.jdbc.Book;
-import com.ss.sf.lms.jdbc.BookCopy;
+import com.ss.sf.lms.domain.BookCopy;
 
 /**
  * @Author William Sends and receives information on book copies from database table tbl_book_copies.

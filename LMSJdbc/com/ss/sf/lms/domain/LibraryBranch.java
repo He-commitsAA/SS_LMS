@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.ss.sf.lms.jdbc;
+package com.ss.sf.lms.domain;
 
 import java.io.Serializable;
 

@@ -13,10 +13,10 @@ import com.ss.sf.lms.dao.AuthorDAO;
 import com.ss.sf.lms.dao.BookDAO;
 import com.ss.sf.lms.dao.LibraryBranchDAO;
 import com.ss.sf.lms.dao.PublisherDAO;
-import com.ss.sf.lms.jdbc.Author;
-import com.ss.sf.lms.jdbc.Book;
-import com.ss.sf.lms.jdbc.LibraryBranch;
-import com.ss.sf.lms.jdbc.Publisher;
+import com.ss.sf.lms.domain.Author;
+import com.ss.sf.lms.domain.Book;
+import com.ss.sf.lms.domain.LibraryBranch;
+import com.ss.sf.lms.domain.Publisher;
 
 /**
  * @author William Abstract User class that all classes of user extend.

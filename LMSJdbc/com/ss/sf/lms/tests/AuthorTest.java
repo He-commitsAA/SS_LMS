@@ -13,13 +13,13 @@ import com.ss.sf.lms.dao.BookLoanDAO;
 import com.ss.sf.lms.dao.BorrowerDAO;
 import com.ss.sf.lms.dao.LibraryBranchDAO;
 import com.ss.sf.lms.dao.PublisherDAO;
-import com.ss.sf.lms.jdbc.Author;
-import com.ss.sf.lms.jdbc.Book;
-import com.ss.sf.lms.jdbc.BookCopy;
-import com.ss.sf.lms.jdbc.BookLoan;
-import com.ss.sf.lms.jdbc.Borrower;
-import com.ss.sf.lms.jdbc.LibraryBranch;
-import com.ss.sf.lms.jdbc.Publisher;
+import com.ss.sf.lms.domain.Author;
+import com.ss.sf.lms.domain.Book;
+import com.ss.sf.lms.domain.BookCopy;
+import com.ss.sf.lms.domain.BookLoan;
+import com.ss.sf.lms.domain.Borrower;
+import com.ss.sf.lms.domain.LibraryBranch;
+import com.ss.sf.lms.domain.Publisher;
 
 /**
  * @author William
